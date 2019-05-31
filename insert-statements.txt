@@ -52,7 +52,7 @@ VALUES
   ('Spiritleaf', 'AL', '(587) 290-0799', 'T8N 8N8', 'St Albert', '107-150 Bellerose Drive ', '107-150 Bellerose Drive , St Albert, AL T8N 8N8'),
   ('Cannabis House', 'AL', '(780) 757-1174', 'T5Y 3X6', 'Edmonton', '6560 170 Avenue NW', '6560 170 Avenue NW, Edmonton, AL T5Y 3X6'),
   ('Daily Blaze', 'AL', '(780) 591-1121', 'T7Z 1T3', 'Stony Plain', '1-5009 50 Street ', '1-5009 50 Street , Stony Plain, AL T7Z 1T3'),
-  ('Waldo's 420 Store', 'AL', '(403) 977-4264', 'T1A 8A4', 'Medicine Hat', '946 16 Street SW ', '946 16 Street SW , Medicine Hat, AL T1A 8A4'),
+  ('Waldo''s 420 Store', 'AL', '(403) 977-4264', 'T1A 8A4', 'Medicine Hat', '946 16 Street SW ', '946 16 Street SW , Medicine Hat, AL T1A 8A4'),
   ('Urbn Leaf Cannabis Company', 'AL', '(780) 524-3212', 'T0H 3N0', 'Valleyview', '1C-3808 Highway Street ', '1C-3808 Highway Street , Valleyview, AL T0H 3N0'),
   ('Green Town', 'AL', '(519) 980-7524', 'T4N 1V6', 'Red Deer', '1-5111 49 Street ', '1-5111 49 Street , Red Deer, AL T4N 1V6'),
   ('Fire & Flower Cannabis Co.', 'AL', '(587) 635-0211', 'T5Y 2Z2', 'Edmonton', '113 - 13710 42 Street NW ', '113 - 13710 42 Street NW , Edmonton, AL T5Y 2Z2'),
