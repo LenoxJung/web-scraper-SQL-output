@@ -39,7 +39,7 @@ rp(url)
                         case 9:
                             data.phoneNumber = cellData;
                             info.push(data); // phone number is the last piece of info for the licensee
-                            fileData += `  ('${data.licenseeName.replace('\'','\'\'')}', '${data.region}', '${data.phoneNumber}', '${data.postalCode}', '${data.city}', '${data.address}', '${data.address}, ${data.city}, ${data.region} ${data.postalCode}'),\n`; // insert value statement with newline
+                            fileData += `  ('${data.licenseeName.replace('\'','\'\'')}', '${data.region}', '${data.phoneNumber}', '${data.postalCode}', '${data.city}', '${data.address}', '${data.address}, ${data.city}, ${data.region} ${data.postalCode}'),\n`; // replace single quote with two quotes to ensure it escapes in SQL
                             break;
                         default:
                             break;
