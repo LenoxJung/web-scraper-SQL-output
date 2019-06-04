@@ -93,7 +93,7 @@ rp(url)
                                 }
                             }
                             info.push(data); // authorization status is the last piece of info for the licensee
-                            fileData += `  ('${data.storeName}', '${data.region}', '', '', '${data.municipality}', '${data.storeAddress}', ''),\n`; // insert value statement with newline
+                            fileData += `  ('${data.storeName.replace('\'','\'\'')}', '${data.region}', '', '', '${data.municipality}', '${data.storeAddress}', ''),\n`; // insert value statement with newline
                             break;
                         default:
                             break;
